@@ -1,0 +1,5 @@
+I would like there to be a recently posted list on the side of the main page.
+    This could be implimented by having a sql table with the 10 most recently posted posts' id's 
+    then when a function like GetRecents() is called it pulls those ID's and pops them into a queue
+
+There should be a login system 
